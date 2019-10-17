@@ -1,0 +1,2 @@
+Git new file text!
+You can use command line tool to do more stuff.
